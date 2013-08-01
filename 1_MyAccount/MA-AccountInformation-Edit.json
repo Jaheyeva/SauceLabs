@@ -13,7 +13,7 @@
         "type": "css selector",
         "value": ".masked_input_box"
       },
-      "text": "7734490000"
+      "text": "1234567890"
     },
     {
       "type": "setElementText",
@@ -43,7 +43,7 @@
         "type": "id",
         "value": "first_name"
       },
-      "text": "Julia"
+      "text": "My First Name"
     },
     {
       "type": "setElementText",
@@ -51,7 +51,7 @@
         "type": "id",
         "value": "last_name"
       },
-      "text": "Ah"
+      "text": "My Last Name"
     },
     {
       "type": "clickElement",

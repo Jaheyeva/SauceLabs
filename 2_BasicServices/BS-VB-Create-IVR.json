@@ -13,7 +13,7 @@
         "type": "css selector",
         "value": ".masked_input_box"
       },
-      "text": "7734492222"
+      "text": "1234567890"
     },
     {
       "type": "setElementText",
@@ -78,7 +78,7 @@
         "type": "xpath",
         "value": "//div[1]/div[5]/div[1]/div[2]/form/table/tbody/tr[2]/td[2]/div/input[2]"
       },
-      "text": "7732507030"
+      "text": "1234567890"
     },
     {
       "type": "clickElement",

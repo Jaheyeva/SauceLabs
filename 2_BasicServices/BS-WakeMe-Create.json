@@ -13,7 +13,7 @@
         "type": "css selector",
         "value": ".masked_input_box"
       },
-      "text": "7734492222"
+      "text": "1234567890"
     },
     {
       "type": "setElementText",
@@ -92,7 +92,7 @@
         "type": "name",
         "value": "alternate_phone_number"
       },
-      "text": "7732507030"
+      "text": "1234567890"
     },
     {
       "type": "clickElement",

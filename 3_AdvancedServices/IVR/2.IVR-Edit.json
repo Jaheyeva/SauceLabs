@@ -13,7 +13,7 @@
         "type": "css selector",
         "value": ".masked_input_box"
       },
-      "text": "3098385410"
+      "text": "1234567890"
     },
     {
       "type": "setElementText",
@@ -21,7 +21,7 @@
         "type": "id",
         "value": "PIN"
       },
-      "text": "epiphany"
+      "text": "password"
     },
     {
       "type": "clickElement",
@@ -33,57 +33,66 @@
     {
       "type": "clickElement",
       "locator": {
-        "type": "xpath",
-        "value": "/html/body/div/div[2]/ul/li[4]/a"
-      }
-    },
-    {
-      "type": "clickElement",
-      "locator": {
-        "type": "xpath",
-        "value": "/html/body/div/div[2]/ul/li[4]/ul/li[5]/a"
-      }
-    },
-    {
-      "type": "clickElement",
-      "locator": {
-        "type": "xpath",
-        "value": "/html/body/div/div[2]/ul/li[4]/ul/li[5]/ul/li/a"
-      }
-    },
-    {
-      "type": "clickElement",
-      "locator": {
-        "type": "xpath",
-        "value": "//table[@id='report_options_table']/tbody/tr[1]/td[2]/img"
+        "type": "link text",
+        "value": "Advanced Services"
       }
     },
     {
       "type": "clickElement",
       "locator": {
         "type": "link text",
-        "value": "1"
-      }
-    },
-    {
-      "type": "clickElement",
-      "locator": {
-        "type": "xpath",
-        "value": "//table[@id='report_options_table']/tbody/tr[2]/td[2]/img"
-      }
-    },
-    {
-      "type": "clickElement",
-      "locator": {
-        "type": "link text",
-        "value": "30"
+        "value": "IVR"
       }
     },
     {
       "type": "clickElement",
       "locator": {
         "type": "id",
-        "value": "thissubmit"
+        "value": "surveyToolbar-new"
+      }
+    },
+    {
+      "type": "setElementText",
+      "locator": {
+        "type": "name",
+        "value": "name"
+      },
+      "text": "This is new IVR title"
+    },
+    {
+      "type": "clickElement",
+      "locator": {
+        "type": "css selector",
+        "value": "p.survey-description"
+      }
+    },
+    {
+      "type": "setElementText",
+      "locator": {
+        "type": "css selector",
+        "value": "textarea[name=\"description\"]"
+      },
+      "text": "Some IVR description"
+    },
+    {
+      "type": "clickElement",
+      "locator": {
+        "type": "css selector",
+        "value": "span.survey-back"
+      }
+    },
+    {
+      "type": "clickElement",
+      "locator": {
+        "type": "css selector",
+        "value": "span.survey-name-text"
+      }
+    },
+    {
+      "type": "clickElement",
+      "locator": {
+        "type": "css selector",
+        "value": "span.survey-back"
       }
     }
   ]

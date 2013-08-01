@@ -13,7 +13,7 @@
         "type": "css selector",
         "value": ".masked_input_box"
       },
-      "text": "3098385410"
+      "text": "1234567890"
     },
     {
       "type": "setElementText",
@@ -21,7 +21,7 @@
         "type": "id",
         "value": "PIN"
       },
-      "text": "epiphany"
+      "text": "password"
     },
     {
       "type": "clickElement",
@@ -33,50 +33,43 @@
     {
       "type": "clickElement",
       "locator": {
-        "type": "xpath",
-        "value": "/html/body/div/div[2]/ul/li[4]/a"
-      }
-    },
-    {
-      "type": "clickElement",
-      "locator": {
-        "type": "xpath",
-        "value": "/html/body/div/div[2]/ul/li[4]/ul/li[8]/a"
-      }
-    },
-    {
-      "type": "clickElement",
-      "locator": {
-        "type": "xpath",
-        "value": "//table[@id='report_options_table']/tbody/tr[1]/td[2]/img"
+        "type": "link text",
+        "value": "Advanced Services"
       }
     },
     {
       "type": "clickElement",
       "locator": {
         "type": "link text",
-        "value": "1"
+        "value": "IVR"
       }
     },
     {
       "type": "clickElement",
       "locator": {
-        "type": "xpath",
-        "value": "//table[@id='report_options_table']/tbody/tr[2]/td[2]/img"
+        "type": "id",
+        "value": "btntext"
       }
     },
     {
       "type": "clickElement",
       "locator": {
         "type": "link text",
-        "value": "30"
+        "value": "What do I do on this page?"
       }
     },
     {
       "type": "clickElement",
       "locator": {
-        "type": "name",
-        "value": "update_button"
+        "type": "id",
+        "value": "TB_closeWindowButton"
+      }
+    },
+    {
+      "type": "clickElement",
+      "locator": {
+        "type": "id",
+        "value": "btntext"
       }
     }
   ]
